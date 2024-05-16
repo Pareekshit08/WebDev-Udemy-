@@ -74,7 +74,7 @@ cd  blog_challenge_mongo
 npm install
 nodemon app.js
 ```
-Ensure MongoDB is running locally. Visit http://localhost:[port]/.(enter the port number displayed in the terminal) in your browser to view the project.
+Ensure MongoDB is running locally. Visit http://localhost:[port]/. (enter the port number displayed in the terminal) in your browser to view the project.
 
 ## 3. Dice Challenge
 
@@ -141,7 +141,7 @@ cd mailchimp_express
 npm install
 nodemon app.js
 ```
-Ensure you have your own MailChimp API keys. Visit http://localhost:[port]/.(enter the port number displayed in the terminal) in your browser to view the project.
+Ensure you have your own MailChimp API keys. Visit http://localhost:[port]/. (enter the port number displayed in the terminal) in your browser to view the project.
 
 ## 6. To-Do List
 The To-Do List is a simple web application built with HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB. It allows users to efficiently manage their tasks by providing features for creating, viewing, updating, and deleting tasks. The application's intuitive interface enables users to seamlessly organize their tasks, with features such as responsive design ensuring a smooth user experience. With its CRUD (Create, Read, Update, Delete) operations and MongoDB backend. 
@@ -165,7 +165,7 @@ cd todolist_mongoose
 npm install
 nodemon app.js
 ```
-Ensure MongoDB is running locally. Visit http://localhost:[port]/.(enter the port number displayed in the terminal) in your browser to view the project.
+Ensure MongoDB is running locally. Visit http://localhost:[port]/. (enter the port number displayed in the terminal) in your browser to view the project.
 
 ## 7. Weather Forecast Website
 The Weather Forecast Website provides the current temperature of a location provided as input using a weather API.
@@ -188,4 +188,4 @@ cd weather_express
 npm install
 nodemon app.js
 ```
-Ensure you have access to a weather API. Visit http://localhost:[port]/.(enter the port number displayed in the terminal) in your browser to view the project.
+Ensure you have access to a weather API. Visit http://localhost:[port]/. (enter the port number displayed in the terminal) in your browser to view the project.
