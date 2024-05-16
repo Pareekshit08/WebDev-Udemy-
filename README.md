@@ -40,8 +40,13 @@ Open your bash terminal and run the below code.
 unzip simon-game-challenge.zip
 cd simon-game-challenge-main
 ```
-Note: if error downloading please try downloading the whole repository by git clone as mentioned above and please follow the instructions carefully.
+Or If there is some error try cloning the repository. Try running bellow code.  
 
+```bash
+git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
+cd WebDev-Udemy-
+cd 'Simon Game Challenge'
+```
 Launch the project using a text editor and the Live Server extension.
     
 ## 2. Blog Challenge with MongoDB
@@ -60,6 +65,15 @@ npm install
 nodemon app.js
 
 ```
+Or If there is some error try cloning the repository. Try running bellow code.  
+
+```bash
+git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
+cd WebDev-Udemy-
+cd  blog_challenge_mongo
+npm install
+nodemon app.js
+```
 Ensure MongoDB is running locally. Visit http://localhost:<Port>/.(enter the port number displayed in the terminal) in your browser to view the project.
 
 ## 3. Dice Challenge
@@ -76,6 +90,13 @@ unzip dice-challenge.zip
 cd dice-challenge-main
 
 ```
+Or If there is some error try cloning the repository. Try running bellow code.  
+
+```bash
+git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
+cd WebDev-Udemy-
+cd dicee_challenge
+```
 Launch the project using a text editor and the Live Server extension.
 
 ## 4. Drumkit Challenge
@@ -88,8 +109,13 @@ Open your bash terminal and run the below code.
 curl -L -o drumkit-challenge.zip https://github.com/Pareekshit08/drumkit_challenge/archive/refs/heads/main.zip
 unzip drumkit-challenge.zip
 cd drumkit-challenge-main
+```
+Or If there is some error try cloning the repository. Try running bellow code.  
 
-
+```bash
+git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
+cd WebDev-Udemy-
+cd drumkit_challenge
 ```
 Launch the project using a text editor and the Live Server extension.
 
@@ -105,7 +131,15 @@ unzip mailchimp-express.zip
 cd mailchimp-express-main
 npm install
 nodemon app.js
+```
+Or If there is some error try cloning the repository. Try running bellow code.  
 
+```bash
+git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
+cd WebDev-Udemy-
+cd mailchimp_express
+npm install
+nodemon app.js
 ```
 Ensure you have your own MailChimp API keys. Visit http://localhost:<port>/.(enter the port number displayed in the terminal) in your browser to view the project.
 
@@ -122,6 +156,15 @@ npm install
 nodemon app.js
 
 ```
+Or If there is some error try cloning the repository. Try running bellow code.  
+
+```bash
+git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
+cd WebDev-Udemy-
+cd todolist_mongoose
+npm install
+nodemon app.js
+```
 Ensure MongoDB is running locally. Visit http://localhost:<port>/.(enter the port number displayed in the terminal) in your browser to view the project.
 
 ## 7. Weather Forecast Website
@@ -135,7 +178,14 @@ unzip weather-forecast.zip
 cd weather-forecast-main
 npm install
 nodemon app.js
+```
+Or If there is some error try cloning the repository. Try running bellow code.  
 
-
+```bash
+git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
+cd WebDev-Udemy-
+cd weather_express
+npm install
+nodemon app.js
 ```
 Ensure you have access to a weather API. Visit http://localhost:<port>/.(enter the port number displayed in the terminal) in your browser to view the project.
