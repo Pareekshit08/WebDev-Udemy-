@@ -120,7 +120,7 @@ cd drumkit_challenge
 Launch the project using a text editor and the Live Server extension.
 
 ## 5. MailChimp Express
-MailChimp Express is a basic newsletter signup website using the MailChimp API.
+MailChimp Express is a straightforward newsletter signup website leveraging the MailChimp API. Developed with Node.js, Express.js, and frontend using HTML, CSS, Javascript and Bootstrap, this project enables users to subscribe to a newsletter with ease. By integrating with the MailChimp API, it streamlines the signup process, allowing users to register and stay updated with the latest news and updates. With its minimalist approach and API-driven functionality.
 
 ### Setting Up
 
@@ -144,7 +144,7 @@ nodemon app.js
 Ensure you have your own MailChimp API keys. Visit http://localhost:[port]/.(enter the port number displayed in the terminal) in your browser to view the project.
 
 ## 6. To-Do List
-The To-Do List is a simple web application for managing tasks.
+The To-Do List is a simple web application built with HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB. It allows users to efficiently manage their tasks by providing features for creating, viewing, updating, and deleting tasks. The application's intuitive interface enables users to seamlessly organize their tasks, with features such as responsive design ensuring a smooth user experience. With its CRUD (Create, Read, Update, Delete) operations and MongoDB backend. 
 ### Setting Up
 Open your bash terminal and run the below code.
 
@@ -168,7 +168,7 @@ nodemon app.js
 Ensure MongoDB is running locally. Visit http://localhost:[port]/.(enter the port number displayed in the terminal) in your browser to view the project.
 
 ## 7. Weather Forecast Website
-The Weather Forecast Website provides the current temperature of a location using a weather API.
+The Weather Forecast Website provides the current temperature of a location provided as input using a weather API.
 ### Setting Up
 Open your bash terminal and run the below code.
 
