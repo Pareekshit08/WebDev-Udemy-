@@ -36,7 +36,7 @@ The Simon Game Challenge is a classic memory game built using HTML, CSS, and Jav
 Open your bash terminal and run the below code.
 
 ```bash
- curl -L -o simon-game-challenge.zip https://github.com/Pareekshit08/Simon Game Challenge'/archive/refs/heads/main.zip
+ curl -L -o simon-game-challenge.zip https://github.com/Pareekshit08/'Simon Game Challenge'/archive/refs/heads/main.zip
 unzip simon-game-challenge.zip
 cd simon-game-challenge-main
 ```
