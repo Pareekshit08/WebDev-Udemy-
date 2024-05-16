@@ -40,7 +40,7 @@ Open your bash terminal and run the below code.
 unzip simon-game-challenge.zip
 cd simon-game-challenge-main
 ```
-Or If there is some error try cloning the repository. Try running bellow code.  
+Or If there is some error try cloning the repository. Try running below code.  
 
 ```bash
 git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
@@ -65,7 +65,7 @@ npm install
 nodemon app.js
 
 ```
-Or If there is some error try cloning the repository. Try running bellow code.  
+Or If there is some error try cloning the repository. Try running below code.  
 
 ```bash
 git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
@@ -90,7 +90,7 @@ unzip dice-challenge.zip
 cd dice-challenge-main
 
 ```
-Or If there is some error try cloning the repository. Try running bellow code.  
+Or If there is some error try cloning the repository. Try running below code.  
 
 ```bash
 git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
@@ -110,7 +110,7 @@ curl -L -o drumkit-challenge.zip https://github.com/Pareekshit08/drumkit_challen
 unzip drumkit-challenge.zip
 cd drumkit-challenge-main
 ```
-Or If there is some error try cloning the repository. Try running bellow code.  
+Or If there is some error try cloning the repository. Try running below code.  
 
 ```bash
 git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
@@ -132,7 +132,7 @@ cd mailchimp-express-main
 npm install
 nodemon app.js
 ```
-Or If there is some error try cloning the repository. Try running bellow code.  
+Or If there is some error try cloning the repository. Try running below code.  
 
 ```bash
 git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
@@ -156,7 +156,7 @@ npm install
 nodemon app.js
 
 ```
-Or If there is some error try cloning the repository. Try running bellow code.  
+Or If there is some error try cloning the repository. Try running below code.  
 
 ```bash
 git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
@@ -179,7 +179,7 @@ cd weather-forecast-main
 npm install
 nodemon app.js
 ```
-Or If there is some error try cloning the repository. Try running bellow code.  
+Or If there is some error try cloning the repository. Try running below code.  
 
 ```bash
 git clone https://github.com/Pareekshit08/WebDev-Udemy-.git
