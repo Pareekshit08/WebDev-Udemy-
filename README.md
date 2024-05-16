@@ -74,7 +74,7 @@ cd  blog_challenge_mongo
 npm install
 nodemon app.js
 ```
-Ensure MongoDB is running locally. Visit http://localhost:<Port>/.(enter the port number displayed in the terminal) in your browser to view the project.
+Ensure MongoDB is running locally. Visit http://localhost:[port]/.(enter the port number displayed in the terminal) in your browser to view the project.
 
 ## 3. Dice Challenge
 
@@ -141,7 +141,7 @@ cd mailchimp_express
 npm install
 nodemon app.js
 ```
-Ensure you have your own MailChimp API keys. Visit http://localhost:<port>/.(enter the port number displayed in the terminal) in your browser to view the project.
+Ensure you have your own MailChimp API keys. Visit http://localhost:[port]/.(enter the port number displayed in the terminal) in your browser to view the project.
 
 ## 6. To-Do List
 The To-Do List is a simple web application for managing tasks.
@@ -165,7 +165,7 @@ cd todolist_mongoose
 npm install
 nodemon app.js
 ```
-Ensure MongoDB is running locally. Visit http://localhost:<port>/.(enter the port number displayed in the terminal) in your browser to view the project.
+Ensure MongoDB is running locally. Visit http://localhost:[port]/.(enter the port number displayed in the terminal) in your browser to view the project.
 
 ## 7. Weather Forecast Website
 The Weather Forecast Website provides the current temperature of a location using a weather API.
@@ -188,4 +188,4 @@ cd weather_express
 npm install
 nodemon app.js
 ```
-Ensure you have access to a weather API. Visit http://localhost:<port>/.(enter the port number displayed in the terminal) in your browser to view the project.
+Ensure you have access to a weather API. Visit http://localhost:[port]/.(enter the port number displayed in the terminal) in your browser to view the project.
